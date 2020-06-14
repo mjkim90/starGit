@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- View Size -->
+    <dimen name="line_size">1dp</dimen>
+    <dimen name="main_padding">8dp</dimen>
+    <dimen name="main_title_margin">20dp</dimen>
+    <dimen name="item_header_padding">10dp</dimen>
+    <dimen name="item_padding">5dp</dimen>
+    <dimen name="item_weather_img_padding">8dp</dimen>
+    <dimen name="item_weather_img_size">65dp</dimen>
+    <dimen name="item_weather_text_margin">7dp</dimen>
+
+    <!-- Text Size -->
+    <dimen name="txt_large_size">30sp</dimen>
+    <dimen name="text_small_size">12sp</dimen>
+</resources>
